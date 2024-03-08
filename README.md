@@ -1,1 +1,2 @@
-# test
+# Belajar Menggunakan Git
+hallo
